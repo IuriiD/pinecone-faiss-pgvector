@@ -10,4 +10,4 @@ To run these 3 notebooks, you may try accessing them through Google Colab:
 - [OpenAI Embeddings + FAISS](https://colab.research.google.com/drive/18pUNh5hTF9StudBqiBUmvcBFCuKf7B2W?usp=sharing)
 - [OpenAI Embeddings + pgvector](https://colab.research.google.com/drive/1JhkfTCxuN46HT-lX3F6Ej6H19x4lgAEI?usp=sharing)
 
-or you can import the `.ipynb` files from this repository into a new Google Colab or other Jupyter notebook. Subsequently, please refer to the instructions provided within the notebooks and/or the accompanying [__Youtube video__](https://youtu.be/y32vbJkabCw) for guidance.
+or you can import the `.ipynb` files from this repository into a new Google Colab or other Jupyter notebook. Subsequently, please refer to the instructions provided within the notebooks and/or the accompanying [__Youtube video__](https://www.youtube.com/watch?v=wHltI4kPKjk&ab_channel=DefaultFallback) for guidance.
